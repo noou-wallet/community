@@ -1,6 +1,6 @@
 # Community Code of Conduct
 
-We believe that a friendly environment is the best way to get better ideas, better discussions and, in the end, a better prduct. Let's make this easy for everybody in our community.
+We believe that a friendly environment is the best way to get better ideas, better discussions and, in the end, a better product. Let's make this easy for everybody in our community.
 
 
 ## Scope
